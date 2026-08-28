@@ -5,7 +5,9 @@
 
 ## Student CGPA: The system now stores the CGPA of every student.
 
-## Department: The system now stores student department
+## Department: The system now stores student department.
+
+## Email: The system now stores student email.
 
 
 
