@@ -6,3 +6,7 @@
 ## Version 1.2 - Added CGPA field to Student structure.
 
 ## Version 1.3- Added department field.
+
+## Version 1.4 - Added email field.
+
+## Version 1.8 - Added semester field.
