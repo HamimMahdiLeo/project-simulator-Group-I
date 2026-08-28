@@ -8,3 +8,5 @@
 ## Version 1.3- Added department field.
 
 ## Version 1.4 - Added email field.
+
+## Version 1.5 - Added phone number field.
