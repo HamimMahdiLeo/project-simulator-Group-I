@@ -7,4 +7,5 @@ struct Student
 	char department[50];
 	char email[100];
 	char phone[20];
+	char address[20];
 };t
