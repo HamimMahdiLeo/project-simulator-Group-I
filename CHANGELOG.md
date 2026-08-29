@@ -16,3 +16,5 @@
 ## Version 1.7 - Added gender field.
 
 ## Version 1.8 - Added semester field.
+
+## Version 1.9 - Added credit hours field.

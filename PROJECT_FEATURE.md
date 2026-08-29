@@ -17,5 +17,7 @@
 
 ## Semester: The system now stores student semester.
 
+## Credit Hours: The system now stores student credit hours.
+
 
 
