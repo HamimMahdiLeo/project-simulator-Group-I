@@ -15,7 +15,5 @@
 
 ## Gender: The system now stores student gender.
 
-## Email: The system now stores student email.
 
-## Semester: The system now stores student semester.
 

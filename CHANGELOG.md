@@ -9,7 +9,6 @@
 
 ## Version 1.4 - Added email field.
 
-## Version 1.8 - Added semester field.
 ## Version 1.5 - Added phone number field.
 
 ## Version 1.6 - Added address field.
