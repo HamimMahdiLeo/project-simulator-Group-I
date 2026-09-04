@@ -20,3 +20,5 @@
 ## Version 1.9 - Added credit hours field.
 
 ## Version 1.10 - Added status field.
+
+## Version 1.11 - Increased name field length.

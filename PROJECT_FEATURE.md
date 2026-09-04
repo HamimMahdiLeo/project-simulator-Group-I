@@ -21,4 +21,6 @@
 
 ## Status: The system now stores student status (Active, Inactive, or Graduated).
 
+## Name Field Length: Maximum student name length increased for longer names.
+
 
