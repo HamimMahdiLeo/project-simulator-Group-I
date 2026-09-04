@@ -15,4 +15,6 @@
 
 ## Gender: The system now stores student gender.
 
+## Semester: The system now stores student semester
+
 
