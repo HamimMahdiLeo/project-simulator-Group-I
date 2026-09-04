@@ -23,4 +23,6 @@
 
 ## Name Field Length: Maximum student name length increased for longer names.
 
+## Address Field Length: Maximum address length increased for longer addresses.
+
 
