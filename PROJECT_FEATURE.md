@@ -25,4 +25,6 @@
 
 ## Address Field Length: Maximum address length increased for longer addresses.
 
+## Phone Field Length: Maximum phone number length increased.
+
 

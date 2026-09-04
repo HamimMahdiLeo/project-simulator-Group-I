@@ -6,7 +6,7 @@ struct Student
 	float cgpa;
 	char department[50];
 	char email[100];
-	char phone[20];
+	char phone[25];
 	char address[200];
 	char gender;
 	int semester;
