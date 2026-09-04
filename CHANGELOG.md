@@ -11,3 +11,6 @@
 
 ## Version 1.5 - Added phone number field.
 
+## Version 1.6 - Added address field.
+
+## Version 1.7 - Added gender field.
