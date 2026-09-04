@@ -18,3 +18,5 @@
 ## Version 1.8 - Added semester field.
 
 ## Version 1.9 - Added credit hours field.
+
+## Version 1.10 - Added status field.

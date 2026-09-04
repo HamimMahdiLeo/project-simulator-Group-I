@@ -19,4 +19,6 @@
 
 ## Credit Hours: The system now stores student credit hours.
 
+## Status: The system now stores student status (Active, Inactive, or Graduated).
+
 
