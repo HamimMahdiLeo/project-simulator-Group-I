@@ -27,4 +27,6 @@
 
 ## Phone Field Length: Maximum phone number length increased.
 
+## Student ID Rename: The id field was renamed to studentId for clarity.
+
 
