@@ -9,4 +9,5 @@ struct Student
 	char phone[20];
 	char address[20];
 	char gender;
+	int semester;
 };t

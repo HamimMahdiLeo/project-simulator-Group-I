@@ -14,3 +14,5 @@
 ## Version 1.6 - Added address field.
 
 ## Version 1.7 - Added gender field.
+
+## Version 1.8 - Added semester field.
