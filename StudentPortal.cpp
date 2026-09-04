@@ -10,4 +10,5 @@ struct Student
 	char address[20];
 	char gender[10];
 	int semester;
+	int creditHour;
 };t
