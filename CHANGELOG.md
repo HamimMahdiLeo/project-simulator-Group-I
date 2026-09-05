@@ -36,3 +36,5 @@
 ## Version 1.17 - Added project structure section to README.
 
 ## Version 1.18 - Added team information to README.
+
+## Version 1.19 - Organized changelog under version headings.
