@@ -34,3 +34,5 @@
 ## Version 1.16 - Improved project description in README.
 
 ## Version 1.17 - Added project structure section to README.
+
+## Version 1.18 - Added team information to README.

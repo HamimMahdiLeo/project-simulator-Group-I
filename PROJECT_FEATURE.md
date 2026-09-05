@@ -35,4 +35,4 @@
 
 ## Project Structure: README now explains the purpose of each project file.
 
-
+## Team Information: README now lists team members.
