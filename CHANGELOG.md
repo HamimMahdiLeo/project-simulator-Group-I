@@ -28,4 +28,5 @@
 ## Version 1.13 - Increased phone number field length.
 
 ## Version 1.14 - Renamed id field to studentId.
- 
+
+## Version 1.15 - Renamed name field to studentName. 
