@@ -29,4 +29,6 @@
 
 ## Student ID Rename: The id field was renamed to studentId for clarity.
 
+## Student Name Rename: The name field was renamed to studentName for clarity.
+
 
