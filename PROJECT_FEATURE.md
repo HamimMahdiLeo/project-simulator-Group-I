@@ -33,4 +33,6 @@
 
 ## Project Description: README now includes a clear project description.
 
+## Project Structure: README now explains the purpose of each project file.
+
 

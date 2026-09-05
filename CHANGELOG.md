@@ -32,3 +32,5 @@
 ## Version 1.15 - Renamed name field to studentName. 
 
 ## Version 1.16 - Improved project description in README.
+
+## Version 1.17 - Added project structure section to README.
