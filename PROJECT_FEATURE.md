@@ -31,4 +31,6 @@
 
 ## Student Name Rename: The name field was renamed to studentName for clarity.
 
+## Project Description: README now includes a clear project description.
+
 
