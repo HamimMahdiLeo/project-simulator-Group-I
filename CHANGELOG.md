@@ -30,3 +30,5 @@
 ## Version 1.14 - Renamed id field to studentId.
 
 ## Version 1.15 - Renamed name field to studentName. 
+
+## Version 1.16 - Improved project description in README.
