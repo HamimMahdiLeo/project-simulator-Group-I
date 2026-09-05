@@ -38,3 +38,5 @@
 ## Version 1.18 - Added team information to README.
 
 ## Version 1.19 - Organized changelog under version headings.
+
+## Version 1.20 - Reviewed and updated project features list.
